@@ -5,6 +5,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
 from PIL import Image
+import sklearn
+
 matplotlib.use('agg')
 
 @st.cache
