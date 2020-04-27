@@ -10,8 +10,3 @@ Data Analysis:<br>
 <img src="analysis.PNG"><br>
 
 
-### Who to talk to
-
-Aonullahi [@aonu2sure] Twitter
-(https://github.com/Aonullahi) 
-
