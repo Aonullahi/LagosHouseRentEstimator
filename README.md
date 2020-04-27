@@ -5,8 +5,8 @@ House Rent Solution Application helps predict rent of houses in some areas in La
 https://ngrentestimator.herokuapp.com/
 
 Rent Estimator:<br>
-<img src="predictor.PNG"><br>
+<img src="predictor.png"><br>
 Data Analysis:<br>
-<img src="analysis.PNG"><br>
+<img src="analysis.png"><br>
 
 
